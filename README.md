@@ -1,6 +1,6 @@
 # AKS Networking Specialist Assessments Practical Labs
 
-docker run -it sturrent/aks-l200lab:latest
+docker run -it sturrent/<LAB_NAME>:latest
 
 aks-l200lab -h
 
